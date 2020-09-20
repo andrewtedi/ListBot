@@ -1,6 +1,6 @@
 # ListBot
 
-Built using JavaScript and the [Discord.io](https://www.npmjs.com/package/discord.io) library.
+Built using JavaScript, Node.js, and the [Discord.io](https://www.npmjs.com/package/discord.io) library.
 
 ## Features
 
