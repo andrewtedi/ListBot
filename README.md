@@ -1,6 +1,6 @@
 # ListBot
 
-Built using JavaScript, Node.js, and the [Discord.io](https://www.npmjs.com/package/discord.io) library.
+Built using JavaScript, [Node.js](https://nodejs.org/en/), and the [Discord.io](https://www.npmjs.com/package/discord.io) library.
 
 ## Features
 
@@ -8,3 +8,5 @@ Built using JavaScript, Node.js, and the [Discord.io](https://www.npmjs.com/pack
 * Title the list
 * Use the list for note-taking or ordering of items.
 * Randomization of list items
+
+## Demo
