@@ -1,0 +1,21 @@
+All ListBot Commands
+
+!ping - simple test
+!titleList <String> - give list a title
+!deleteTitle - deletes title
+!print - print list with title
+!addLast <String>, <String>, <String>,... - adds items to the end of the array
+!deleteLast - removes last item in array
+!addItemLoc <String>, <Integer> - adds item at specified location
+!deleteItem <String> - deletes item given as first argument
+!deleteItemLoc <Integer> - deletes an item at a specific location in the array
+!deleteAll - deletes all items in array
+!changeItem <String>, <String> - changes old item into new item
+!changeItemLoc <String>, <Integer> - changes item at location given with new item
+!swap <Integer>, <Integer> - swaps two items by specified location, both locations must exist
+!itemAt <Integer> - prints the item in an index of an array
+!length - prints current length of array
+!switchNumHyph - switches between numbered list or unordered hyphenated list
+!randomize - randomizes list
+!printArray - prints array in non-list format
+!help - prints command list

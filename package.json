@@ -1,0 +1,14 @@
+{
+	"name": "ListBot",
+	"version": "1.0.1",
+	"description": "Creates a basic list that can be edited for many purposes.",
+	"main": "bot.js",
+	"scripts" : {
+		"start": "node bot.js"
+	},
+	"author": "Andrew Tedijanto",
+	"dependencies": {
+		"discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
+		"winston": "^3.2.1"
+	}
+}
