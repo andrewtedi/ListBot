@@ -10,3 +10,5 @@ Built using JavaScript, [Node.js](https://nodejs.org/en/), and the [Discord.io](
 * Randomization of list items
 
 ## Demo
+
+[Demo](https://www.youtube.com/watch?v=5LiHymgF1wk)
