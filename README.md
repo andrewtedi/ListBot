@@ -1,6 +1,6 @@
 # ListBot
 
-![image](file:///C:/Users/andre/Desktop/list-2389219_1280.png)
+![list-2389219_1280](https://user-images.githubusercontent.com/40414974/93729274-9e609b00-fb78-11ea-8a8b-6d030a5c29e7.png)
 
 Built using JavaScript, [Node.js](https://nodejs.org/en/), and the [Discord.io](https://www.npmjs.com/package/discord.io) library.
 
