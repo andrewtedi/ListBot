@@ -1,5 +1,7 @@
 # ListBot
 
+![image](file:///C:/Users/andre/Desktop/list-2389219_1280.png)
+
 Built using JavaScript, [Node.js](https://nodejs.org/en/), and the [Discord.io](https://www.npmjs.com/package/discord.io) library.
 
 ## Features
